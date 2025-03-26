@@ -1,2 +1,2 @@
 # PowerBI-Tableau
-Visualisation from PowerBI and Tableau
+Dashboard and Visualisation from PowerBI and Tableau
